@@ -1,5 +1,7 @@
 # Menetrendek.info
 
+![Banner](https://github.com/menetrendek-info/.github/blob/main/profile/banner.png?raw=true)
+
 ## 🇭🇺 A modern menetrend kereső
 
 A menetrendek.info egy weboldal, amely segít a tömegközlekedési utazások tervezésében Magyarországon. A weboldal több társaság menetrendi adatait használja, így szinte bárhová eljuthatsz buszal, vonattal vagy hajóval. A weboldal modern, letisztult és mobilbarát kezelőfelülettel rendelkezik, és számos hasznos funkciót kínál:
