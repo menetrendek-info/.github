@@ -10,7 +10,7 @@ A menetrendek.info egy weboldal, amely segít a tömegközlekedési utazások te
 - PWA (progresszív webalkalmazás) támogatás, amely lehetővé teszi a weboldal letöltését alkalmazásként a telefonodra
 - Aktív fejlesztés, amely folyamatosan javítja és bővíti a weboldal funkcióit és teljesítményét
 
-Ha szeretnél többet megtudni a weboldalról, látogass el a https://menetrendek.info oldalra, vagy kövesd a fejlesztéseket a GitHub-on: https://github.com/menetrendek.
+Ha szeretnél többet megtudni a weboldalról, látogass el a https://menetrendek.info oldalra, vagy kövesd a fejlesztéseket a GitHub-on: https://github.com/menetrendek-info.
 
 ## 🇪🇳 A modern timetable search engine
 
@@ -22,4 +22,4 @@ Menetrendek.info is a website that helps you plan your trips by public transport
 - PWA (progressive web app) support, which allows you to download the website as an app on your phone
 - Active development, which constantly improves and expands the website's features and performance
 
-If you want to learn more about the website, visit https://menetrendek.info, or follow the developments on GitHub: https://github.com/menetrendek.
+If you want to learn more about the website, visit https://menetrendek.info, or follow the developments on GitHub: https://github.com/menetrendek-info.
